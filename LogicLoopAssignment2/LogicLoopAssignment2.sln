@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicLoopAssignment1", "LogicLoopAssignment1\LogicLoopAssignment1.csproj", "{4BC01ADD-224D-49C7-8AB6-6DE13DFCB3A7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicLoopAssignment2", "LogicLoopAssignment2\LogicLoopAssignment2.csproj", "{E8590406-2BB7-4523-BD93-6593625B68F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicLoopAssignment2", "LogicLoopAssignment2.csproj", "{E8590406-2BB7-4523-BD93-6593625B68F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4BC01ADD-224D-49C7-8AB6-6DE13DFCB3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BC01ADD-224D-49C7-8AB6-6DE13DFCB3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BC01ADD-224D-49C7-8AB6-6DE13DFCB3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BC01ADD-224D-49C7-8AB6-6DE13DFCB3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E8590406-2BB7-4523-BD93-6593625B68F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E8590406-2BB7-4523-BD93-6593625B68F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8590406-2BB7-4523-BD93-6593625B68F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DCF8D27D-EAA8-4783-A02D-464AA07EF764}
+		SolutionGuid = {3443BFB8-562F-440E-BFA8-35BDD8E93339}
 	EndGlobalSection
 EndGlobal
